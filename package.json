@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "concurrently \"cd backend && yarn start\" \"cd frontend && yarn start\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-all": "yarn && cd backend && yarn && cd .. && cd frontend && yarn"
   },
   "keywords": [],
   "author": "",
