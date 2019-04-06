@@ -95,6 +95,11 @@ decamelize@^1.2.0:
   resolved "https://artifactory.twitter.biz:443/api/npm/js-virtual/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
+dotenv@^7.0.0:
+  version "7.0.0"
+  resolved "https://artifactory.twitter.biz:443/api/npm/js-virtual/dotenv/-/dotenv-7.0.0.tgz#a2be3cd52736673206e8a85fb5210eea29628e7c"
+  integrity sha1-or481Sc2ZzIG6KhftSEO6ilijnw=
+
 end-of-stream@^1.1.0:
   version "1.4.1"
   resolved "https://artifactory.twitter.biz:443/api/npm/js-virtual/end-of-stream/-/end-of-stream-1.4.1.tgz#ed29634d19baba463b6ce6b80a37213eab71ec43"
