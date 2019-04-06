@@ -277,6 +277,11 @@ destroy@~1.0.4:
   resolved "https://artifactory.twitter.biz:443/api/npm/js-virtual/destroy/-/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
   integrity sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=
 
+dotenv@^7.0.0:
+  version "7.0.0"
+  resolved "https://artifactory.twitter.biz:443/api/npm/js-virtual/dotenv/-/dotenv-7.0.0.tgz#a2be3cd52736673206e8a85fb5210eea29628e7c"
+  integrity sha1-or481Sc2ZzIG6KhftSEO6ilijnw=
+
 ee-first@1.1.1:
   version "1.1.1"
   resolved "https://artifactory.twitter.biz:443/api/npm/js-virtual/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
